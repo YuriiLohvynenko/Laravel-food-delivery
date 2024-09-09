@@ -1,0 +1,47 @@
+.service--2 .service__inner .service__hover__action {
+    background-color: #d40c0e;
+}
+
+.service--2 .service__inner .service__content {
+  background-color: #ffe7bd;
+}
+
+.service--2 .service__inner .service__content .ser__icon img {
+    max-height: 80px;
+}
+
+.list__food__prize1 span {
+  color: #d50c0d;
+      display: inline-block;
+      font-family: "Alegreya", serif;
+      font-size: 50px;
+      font-weight: 700;
+      line-height: 45px;
+}
+
+.food__btn.grey--btn {
+    background: #ffe700 none repeat scroll 0 0;
+    color: #444444;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.single__food__list .food__list__thumb a img {
+    width: 450px;
+}
+
+.section__title::before {
+    visibility: hidden;
+}
+
+.footer .ftr__title::after {
+    background-image: none;
+}
+
+
+
+@media only screen and (max-width: 575px){
+.service--2 .service__inner .service__content .ser__icon img {
+    max-height: 80px;
+}
+}

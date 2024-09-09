@@ -1,0 +1,15 @@
+.app-header__logo .logo-src {
+    background: url(images/logo25x25.png);
+}
+
+.xs {
+  padding: .25rem .4rem;
+  font-size: .7rem;
+  line-height: .5;
+  border-radius: .2rem;
+}
+
+.image {
+max-width: 100%;
+height: auto;
+}
