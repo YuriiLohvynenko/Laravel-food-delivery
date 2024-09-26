@@ -330,7 +330,7 @@ class PedidoController extends Controller
                $dataString = json_encode($data);
 
                $headers = [
-                   'Authorization: key=AAAARmipiS8:APA91bHSK4p6e09kFsPzL4f-OzksS8TolrvPItiNMzRBpgnMnpHTkPVQWFzOZfr1XJkBOtFnLQITZuFJ2SjeR3G9il0MpIYJYnPv1EIv1V02e62h8YQljbnJOwy9GBFJH_Xmoj61QrMe',
+                   'Authorization: key=yourapikey',
                    'Content-Type: application/json',
                ];
 

@@ -47,7 +47,7 @@ if($user->rol!="3"){
        <script>
            // Your web app's Firebase configuration
            var firebaseConfig = {
-             apiKey: "AIzaSyAR130WRwVLZYp8-vUra6qrqtoA3qAEZiw",
+             apiKey: "yourapikey",
              authDomain: "pidemeonline-c9a62.firebaseapp.com",
              databaseURL: "https://pidemeonline-c9a62.firebaseio.com",
              projectId: "pidemeonline-c9a62",

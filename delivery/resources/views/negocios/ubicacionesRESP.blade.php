@@ -1,6 +1,6 @@
 @extends('layout')
 @section('content')
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAoJ564UPvTdf7bNQ8ZA4mPo6LNmLOqBEE"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=yourapikey"></script>
 <script>
 function initMap() {
     var map;

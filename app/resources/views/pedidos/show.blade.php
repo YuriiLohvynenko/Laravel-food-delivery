@@ -189,7 +189,7 @@
 -->
 
     <iframe width="100%" height="500" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/directions?origin={{$negocio->latitud}}%2C{{$negocio->longitud}}&destination={{$pedido->latitud}}%2C{{$pedido->longitud}}&key=AIzaSyDx2Nw4Wn9Dm0BHx89c1fo6iH7_ytUL5Gk" allowfullscreen></iframe>
+src="https://www.google.com/maps/embed/v1/directions?origin={{$negocio->latitud}}%2C{{$negocio->longitud}}&destination={{$pedido->latitud}}%2C{{$pedido->longitud}}&key=yourapikey" allowfullscreen></iframe>
 
 <!--
     <a class="btn btn-success" target="_blank" id="enlace" href="https://www.google.com/maps/dir/?api=1&origin={{$negocio->latitud}},{{$negocio->longitud}}&destination={{$pedido->latitud}},{{$pedido->longitud}}&travelmode=driving.">
